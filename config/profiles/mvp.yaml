@@ -1,0 +1,20 @@
+name: MVP
+description: Fast analysis, basic scoring
+scan:
+  formats: [wav, mp3, m4a, flac]
+  recursive: true
+analysis:
+  extract_loudness: true
+  extract_silence: true
+  parallel_workers: 4
+scoring:
+  weights:
+    duration_fit: 0.35
+    loudness_fit: 0.30
+    loopability: 0.25
+    user_rating: 0.10
+  loudness_targets:
+    ideal_lufs: -14
+    tolerance: 2
+export:
+  top_n: 10

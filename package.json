@@ -1,0 +1,28 @@
+{
+  "name": "thriven-sound-analyzer",
+  "version": "0.2.0",
+  "description": "Offline-first CLI tool to scan, analyze, rank and export Suno stems/loops (and prep 8-stem packs for BR-864).",
+  "type": "module",
+  "bin": {
+    "thriven": "./bin/thriven"
+  },
+  "scripts": {
+    "cli": "node bin/thriven",
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "commander": "^12.1.0",
+    "glob": "^10.4.5",
+    "js-yaml": "^4.1.0",
+    "music-metadata": "^10.5.0",
+    "p-queue": "^8.0.1",
+    "uuid": "^10.0.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}

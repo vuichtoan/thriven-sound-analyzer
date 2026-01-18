@@ -1,0 +1,6 @@
+node_modules/
+analysis/
+exports/
+br864_ready/
+.DS_Store
+.env
